@@ -1,13 +1,13 @@
-package com.akshaya.groceryreminder.adapter
+package com.shruthi.groceryreminder.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.akshaya.groceryreminder.R
-import com.akshaya.groceryreminder.databinding.ItemGroceryBinding
-import com.akshaya.groceryreminder.model.GroceryModel
-import com.akshaya.groceryreminder.util.ItemDiffUtil
+import com.shruthi.groceryreminder.R
+import com.shruthi.groceryreminder.databinding.ItemGroceryBinding
+import com.shruthi.groceryreminder.model.GroceryModel
+import com.shruthi.groceryreminder.util.ItemDiffUtil
 
 class MainAdapter: RecyclerView.Adapter<MainAdapter.MyViewHolder>() {
 

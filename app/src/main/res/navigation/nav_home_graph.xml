@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.akshaya.groceryreminder.HomeFragment"
+        android:name="com.shruthi.groceryreminder.HomeFragment"
         android:label="Grocery Items"
         tools:layout="@layout/fragment_home" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/createFragment"
-        android:name="com.akshaya.groceryreminder.CreateFragment"
+        android:name="com.shruthi.groceryreminder.CreateFragment"
         android:label="Add Grocery"
         tools:layout="@layout/fragment_create" >
         <action

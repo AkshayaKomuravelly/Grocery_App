@@ -1,4 +1,4 @@
-package com.akshaya.groceryreminder.util
+package com.shruthi.groceryreminder.util
 
 class Constants {
 

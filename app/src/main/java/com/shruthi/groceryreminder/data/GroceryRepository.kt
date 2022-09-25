@@ -1,8 +1,8 @@
-package com.akshaya.groceryreminder.data
+package com.shruthi.groceryreminder.data
 
 import androidx.lifecycle.LiveData
-import com.akshaya.groceryreminder.data.db.GroceryDao
-import com.akshaya.groceryreminder.model.GroceryModel
+import com.shruthi.groceryreminder.data.db.GroceryDao
+import com.shruthi.groceryreminder.model.GroceryModel
 
 class GroceryRepository(private val groceryDao: GroceryDao) {
 

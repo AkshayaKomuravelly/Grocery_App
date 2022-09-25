@@ -1,4 +1,4 @@
-package com.akshaya.groceryreminder
+package com.shruthi.groceryreminder
 
 import android.os.Bundle
 import android.view.*
@@ -11,9 +11,9 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.akshaya.groceryreminder.adapter.MainAdapter
-import com.akshaya.groceryreminder.data.GroceryViewModel
-import com.akshaya.groceryreminder.databinding.FragmentHomeBinding
+import com.shruthi.groceryreminder.adapter.MainAdapter
+import com.shruthi.groceryreminder.data.GroceryViewModel
+import com.shruthi.groceryreminder.databinding.FragmentHomeBinding
 
 
 class HomeFragment : Fragment(), MenuProvider {

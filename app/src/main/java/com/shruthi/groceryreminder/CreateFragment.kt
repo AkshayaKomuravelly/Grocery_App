@@ -1,4 +1,4 @@
-package com.akshaya.groceryreminder
+package com.shruthi.groceryreminder
 
 import android.os.Bundle
 import android.text.TextUtils
@@ -9,9 +9,9 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import com.akshaya.groceryreminder.data.GroceryViewModel
-import com.akshaya.groceryreminder.databinding.FragmentCreateBinding
-import com.akshaya.groceryreminder.model.GroceryModel
+import com.shruthi.groceryreminder.data.GroceryViewModel
+import com.shruthi.groceryreminder.databinding.FragmentCreateBinding
+import com.shruthi.groceryreminder.model.GroceryModel
 
 class CreateFragment : Fragment() {
 

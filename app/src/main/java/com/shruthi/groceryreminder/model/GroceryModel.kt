@@ -1,9 +1,9 @@
-package com.akshaya.groceryreminder.model
+package com.shruthi.groceryreminder.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.akshaya.groceryreminder.util.Constants
+import com.shruthi.groceryreminder.util.Constants
 
 @Entity(tableName = Constants.GROCERY_TABLE)
 data class GroceryModel(

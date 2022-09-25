@@ -1,11 +1,11 @@
-package com.akshaya.groceryreminder.data.db
+package com.shruthi.groceryreminder.data.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.akshaya.groceryreminder.model.GroceryModel
-import com.akshaya.groceryreminder.util.Constants
+import com.shruthi.groceryreminder.model.GroceryModel
+import com.shruthi.groceryreminder.util.Constants
 
 @Database(
     entities = [GroceryModel::class],

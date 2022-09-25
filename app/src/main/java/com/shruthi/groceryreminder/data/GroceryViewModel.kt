@@ -1,11 +1,11 @@
-package com.akshaya.groceryreminder.data
+package com.shruthi.groceryreminder.data
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.viewModelScope
-import com.akshaya.groceryreminder.data.db.GroceryDB
-import com.akshaya.groceryreminder.model.GroceryModel
+import com.shruthi.groceryreminder.data.db.GroceryDB
+import com.shruthi.groceryreminder.model.GroceryModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 

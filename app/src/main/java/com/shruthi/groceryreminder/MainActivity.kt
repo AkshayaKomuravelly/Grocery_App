@@ -1,4 +1,4 @@
-package com.akshaya.groceryreminder
+package com.shruthi.groceryreminder
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
